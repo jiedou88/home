@@ -75,23 +75,23 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - jiedou88/StockMarket
+ - jiedou88/Ball-Game
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
+ - jiedou88/
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+   #profileurl: http://stackoverflow.com/users/258813/rhinds
+   #flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
 apps:

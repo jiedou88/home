@@ -76,17 +76,12 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - jiedou88/StockMarket
+ - jiedou88/Location-Acquisition-Website
+ - jiedou88/Tanks-Game
  - jiedou88/Ball-Game
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
- - jiedou88/
+ - jiedou88/Credit-Card-Application
+ - jiedou88/Student-Course-Enrollment-Management-System
+ 
 
 #Stackoverflow flair is optional
 #stackoverflow:

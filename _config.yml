@@ -40,8 +40,8 @@ roles:
  - title: Lead Developer
    start: 2016
    end: Ongoing
-   employer: Enterprise Application,Treasury Board Secretariat,Ontario
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   employer: Enterprise Application Branch,Treasury Board Secretariat,Ontario
+   description: Enterprise Application was established as an branch for the development of a number of software and website projects for Ontario Public Service, and a rapidly growing, branch using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Azure cloud, Cosmos DB, a variety of techniques.
  #- title: Senior Engineer
    #start: 2012
    #end: 2016

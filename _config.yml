@@ -1,6 +1,6 @@
 # Site settings
 title: Jie Dou
-twitter_username: rob_hinds
+#twitter_username: rob_hinds
 name: Jie Dou
 
 # Build settings
@@ -55,7 +55,7 @@ roles:
 
 #Education is required
 education:
- - level: diploma (B.Sc.)
+ - level: Diploma 
    date: 2016
    subject: Computer Programmer
    school: Seneca College

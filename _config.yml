@@ -15,10 +15,10 @@ primarylinks:
    url: https://github.com/jiedou88
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
+# - title: LinkedIn
+#   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
 #Any buzzword skills you want to include
 skills:
@@ -33,7 +33,7 @@ skills:
  - Swift
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+#blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:

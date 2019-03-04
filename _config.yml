@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://medium.com/@douketty/how-to-build-a-online-chat-using-angular-and-asp-net-core-2-1-fae7cdc62c44?sk=63bae86b773b4aec126040d7b1537803
  - title: GitHub
    url: https://github.com/jiedou88
  - title: StackOverflow

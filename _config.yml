@@ -101,36 +101,7 @@ Performed unit test and web load test;
 Deployed to Azure production environment; Implemented production database migration script; 
 Logged request and response metadata in web API with Azure Application Insight; Supported roughly 300 ministry users and 723 financial items in production application in total right now.
 <br/><br/>
-<strong>Submission Management FrontEnd (UI)，OnTrack</strong>: Participated in developing and testing UI. 
-Implemented dynamic graph to visualize data in UI for a submission scheduling history for better user experience;
-<br/><br/>
-<strong>Commitment Tracker Project Dashboard (UI)，OnTrack</strong>: Implemented dashboard chart component with framework PrimeNG and Chart.js; Demonstrate to clients and other stakeholders; 
-Developed and recommended solutions that meet requirements for CT dashboard;
-<br/><br/>
-<strong>Premier Certificate Website Project</strong>: •	Frontend: AngularJS 2, JQuery, PrimeNG, Bootstrap
-Implemented dashboard chart component with Chart.js; 
-Implemented Routing to navigate between the side bar and different components; 
-Implemented dynamic form for creating new request with dynamic data binding metadata and adding validation dynamically;
-Designed Search page UI and Implement with Bootstrap and PrimeNG;
-Implemented data CURD with corresponding HTTP calls to a remote server's web API;
-Cached data in Local Storage and Session Storage
-•	Backend: C# Asp.Net Core Web API, HTTP, RESTful services.  
-Participated in the planning of API development;
-Implemented web API for data CURD;
-Implemented API for uploading and downloading file;
-Implemented data storage in memory caching in Asp.Net Core; 
-Implemented authorization web API with JWTbearer middleware in Asp.Net Core;
-Cached data in server memory
-•	Database: 
-Created store procedure for API for request CRUD;
-Improved search stored procedure with dynamic SQL;
-•	Microsoft Azure cloud: authentication, authorization, OAuth 2. 
-Created and published web admin app and web API to Azure AD
-      Configured Azure AD Authentication and Authorization for web app and web API
-•	Automation Test: Unit Test
-Cross browser test, web performance test, web load test
 
-<br/><br/>
 
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>

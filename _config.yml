@@ -93,11 +93,7 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
    
-   <strong>Submission Management Backend</strong>: Server side  <br/><br/>
-
-   <strong>Development Control</strong>: ms su<br/><br/>
-   
-   <strong>TFS Load Test</strong>: Planned test cases,Wrote test script and develop a testing environment.
+   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
 
    
 #Education is required

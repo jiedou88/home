@@ -91,7 +91,7 @@ apps:
    description: A basic Stock Market IOS app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: 
+additionalinfo: |
    
    <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
 

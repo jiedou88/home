@@ -93,7 +93,7 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
    <strong>Submission Management Backend (API)，OnTrack</strong> Server-side web development experience has largely been based on the ASP.NET Core framework. 
-Designed and developed backend API allow UI to retrieve and modify data. Implemented 4 data type Web API (email, file download and upload, submission items and standards reference data).
+Designed and developed backend API allow UI to retrieve and modify data. Implemented 4 data type Web API : email, file download and upload, submission items and standards reference data.
 Implemented data storage in memory caching in Asp.Net Core.
 Implemented authorization web API with JWTbearer middleware in Asp.Net Core 2.0.
 Implemented multiple Azure cosmos database store procedure scripts for Date migration. 

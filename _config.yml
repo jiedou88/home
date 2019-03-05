@@ -91,10 +91,15 @@ apps:
    description: A basic Stock Market IOS app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   
-
-
+additionalinfo: 
+   <strong>Submission Management Backend (API)，OnTrack</strong> Server-side web development experience has largely been based on the ASP.NET Core framework. 
+Designed and developed backend API allow UI to retrieve and modify data; Implemented 4 data type Web API (email and file download and upload; submission items and standards reference data);
+Implemented data storage in memory caching in Asp.Net Core; 
+Implemented authorization web API with JWTbearer middleware in Asp.Net Core 2.0;
+Implemented multiple Azure cosmos database store procedure scripts for Date migration; 
+Performed unit test and web load test; 
+Deployed to Azure production environment; Implemented production database migration script; 
+Logged request and response metadata in web API with Azure Application Insight; Supported roughly 300 ministry users and 723 financial items in production application in total right now.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
    As part of Nerdability, I created, and am now primary contributor to projects <br/><br/>
